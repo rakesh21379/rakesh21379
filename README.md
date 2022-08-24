@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @rakesh21379
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm RAKESH BEHERA
 
-<!---
-rakesh21379/rakesh21379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Data Science enthusiast having 3+ years of working experience & Extensive knowledge in Data Analytics and Statistics.
+
+
+
+zap Fun fact I think I am Funny
+## Profile Summary
+
+ I’m currently working as a Senior Software Developer.
+
+I'm currently exploring different Python Libraries, Data Visualization Tools and Cloud Techonolgies.
+
+Ask me about Python, SQL, Power BI.
+
+Reach me on rakesh21379@gmail.com
+
+
