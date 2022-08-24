@@ -3,8 +3,6 @@ Hi, I'm RAKESH BEHERA
 A Data Science enthusiast having 3+ years of working experience & Extensive knowledge in Data Analytics and Statistics.
 
 
-
-zap Fun fact I think I am Funny
 ## Profile Summary
 
  I’m currently working as a Senior Software Developer.
